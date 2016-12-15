@@ -13,8 +13,8 @@ License
 -------
 udp_reflector is licensed under the GNU GPL 3.0.
 
-Source code is available from the Subversion repository at the project's 
-homepage: http://code.google.com/p/udp-reflector/
+Source code is available from the github repository at the project's 
+homepage: https://github.com/harlan3/udp-reflector.git 
 
 Required software
 -----------------
